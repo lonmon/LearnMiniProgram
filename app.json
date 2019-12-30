@@ -10,7 +10,7 @@
     "navigationBarTextStyle": "white",
     "navigationBarTitleText": "我的小程序",
     "backgroundColor": "orange",
-    "enablePullDownRefresh": true,
+    "enablePullDownRefresh": false,
     "backgroundTextStyle": "dark"
   },
   "tabBar": {
@@ -23,10 +23,10 @@
         "selectedIconPath": "assets/tabbar/home_active.png"
       },
       {
-        "pagePath": "pages/about/about",
-        "text": "about",
-        "iconPath": "assets/tabbar/about.png",
-        "selectedIconPath": "assets/tabbar/about_active.png"
+        "pagePath": "pages/category/category",
+        "text": "category",
+        "iconPath": "assets/tabbar/category.png",
+        "selectedIconPath": "assets/tabbar/category_active.png"
       }
     ]
   },

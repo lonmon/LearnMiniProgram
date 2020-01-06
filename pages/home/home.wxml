@@ -1,10 +1,10 @@
 <!--pages/home/home.wxml-->
-<<<<<<< HEAD
+
 <view class="title">Hello word</view>
 <view>{{message}}</view>
 <button size='mini' bindtap="handleBtnClick">按钮</button>
-=======
+
 <!-- 1.小程序的数据绑定 -->
 <view>Hello world</view>
 <button size='mini' >按钮</button>
->>>>>>> eb69fb5d5b89a3a76f59516697d0fa019f04ab72
+

@@ -5,7 +5,6 @@
 //                                    native(微信客户端)
 
 Page({
-<<<<<<< HEAD
   data: {
     message: 0
   },
@@ -18,7 +17,3 @@ Page({
       console.log("按钮被点击了")
   }
 })
-=======
-
-})
->>>>>>> eb69fb5d5b89a3a76f59516697d0fa019f04ab72
